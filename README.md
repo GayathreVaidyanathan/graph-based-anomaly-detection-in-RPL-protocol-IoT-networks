@@ -1,4 +1,4 @@
-*italicised text*# 🔐 IoT Intrusion Detection via Graph-Enriched Features
+# 🔐 IoT Intrusion Detection via Graph-Enriched Features
 
 > **Graph-Based Anomaly Detection in RPL-Protocol IoT Networks**  
 > Dataset: [UOS-IOTSH-2024](https://github.com/UOSIOTSH2024/UOS_IOTSH_2024-Dataset)
